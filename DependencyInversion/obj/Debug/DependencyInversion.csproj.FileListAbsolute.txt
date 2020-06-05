@@ -1,0 +1,5 @@
+C:\WEB SERVİS PROJE\SOLID\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\WEB SERVİS PROJE\SOLID\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\WEB SERVİS PROJE\SOLID\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\WEB SERVİS PROJE\SOLID\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\WEB SERVİS PROJE\SOLID\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.pdb
